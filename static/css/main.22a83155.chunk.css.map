@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,eACE,WAAY,CACZ,YAAa,CACb,aACF,CAEA,MACE,mBAEF","file":"main.22a83155.chunk.css","sourcesContent":[".post__wrapper {\n  width: 900px;\n  padding: 20px;\n  margin: 0 auto;\n}\n\n.post {\n  margin-bottom: 150px;\n\n}\n"]}
